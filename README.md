@@ -1,5 +1,7 @@
-# CM6206-Catalina
-CM6206 Driver for MacOS Catalina 10.15
+# CM6206
+CM6206 Driver for MacOS, works at least at Sequoia without codeless kexts
+
+Updated by S0urceror to continue if it cannot exclusively open the CM6206 interface. It just works anyway. No other changes made to code from Dr.Lex and / or LuisLis
 
 I'm making this since it took me a really long time to find a solution. Before you use this also make sure to try a lot of USB ports since sound worked on some but optical didn't. 
 
